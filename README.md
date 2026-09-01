@@ -1,2 +1,3 @@
 # 3610F26-1
-Web Developoment
+AI Developoment for the Web
+This is an example
